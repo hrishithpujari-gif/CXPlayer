@@ -1147,9 +1147,9 @@ function Settings({ theme, setTheme }) {
           <div>
             <div style={{ fontWeight: 600 }}>Credits</div>
             <div style={{ color: "var(--muted-foreground)", fontSize: 13, marginTop: 4, lineHeight: 1.55 }}>
-              This web has been made by Ayle (@alyfinnn) By{" "}
-              <a className="credit-link" href="https://discord.gg/aerox" target="_blank" rel="noreferrer">
-                AeroX
+              This web has been made by Cxon (@cx_on) By{" "}
+              <a className="credit-link" href="https://discord.gg/pugnCew3Y7" target="_blank" rel="noreferrer">
+                Development || Z+
               </a>
               .
             </div>
